@@ -1,6 +1,6 @@
 <div align="center">
     <a href="https://chess-fv.netlify.app" target="_blank">
-      <img src="preview.webp" alt="Project Banner" style="width: 75%;">
+      <img src="preview.webp" alt="Project Banner" style="width: 60%;">
     </a>
   <h3 align="center">Chess - JavaScript</h3>
 </div>
