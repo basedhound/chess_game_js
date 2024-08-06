@@ -1,6 +1,6 @@
 <div align="center">
     <a href="https://chess-fv.netlify.app" target="_blank">
-      <img src="preview.webp" alt="Project Banner" style="width: 60%;">
+      <img src="preview.png" alt="Project Banner" style="width: 60%;">
     </a>
   <h3 align="center">Chess - JavaScript</h3>
 </div>
@@ -24,9 +24,11 @@
 
 ##  <br /> <a name="tech-stack">⚙️ Tech Stack</a>
 
-- HTML
-- CSS
-- JavaScript
+- **HTML** (HyperText Markup Language) is the standard markup language used to create and structure content on the web. It provides the basic building blocks for web pages, defining elements such as headings, paragraphs, images, links, and more. HTML forms the backbone of any web document and is essential for web development.
+
+- **CSS** (Cascading Style Sheets) is a stylesheet language used to control the presentation and layout of web pages. It allows developers to apply styles such as colors, fonts, spacing, and positioning to HTML elements. CSS enhances the visual appeal and user experience of a website by enabling the separation of content and design.
+
+- **JavaScript** is a versatile programming language that enables interactive and dynamic functionality on web pages. It allows developers to create features like form validation, animations, and asynchronous content loading. JavaScript is essential for building modern web applications and works seamlessly with HTML and CSS to create a complete user experience.
 
 
 ## <br /> <a name="quick-start">🚀 Quick Start</a>
